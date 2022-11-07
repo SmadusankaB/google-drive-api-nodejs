@@ -1,14 +1,26 @@
 # google-drive-api-nodejs
-Example project to demonstrate Google API using NODE js
 
-This is a simple example for reding files in Google drive and Google sheets.
+## Example project to demonstrate how to use Google API  and Google Sheets API in an express app powered by Node JS
 
-You must have client id, client secret and refresh token before run this script
+### Demo
 
-Run script
-```
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/5hWdh-R_2Zc)
+
+### Prerequisite
+
+1. Google OAuth Client ID
+
+2. Google OAuth Client Secret
+
+### Written article
+
+Coming Soon on [techpickups.com](https://techpickups.com)
+
+### Run script
+
+```sh
 npm install
 node index.js
 ```
 
-Check [this](https://techpickups.com/how-to-use-google-apis-drive-sheet-in-nodej/) link for setting up client id, client secret and refresh token.
+Open the browser and navigate to http://localhost:3000
